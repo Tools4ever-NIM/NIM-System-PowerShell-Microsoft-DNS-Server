@@ -1,10 +1,11 @@
-# NIM-System-PowerShell-Microsoft-DNS-Server
-Microsoft DNS Server
+# Microsoft DNS Server
 
-# Available Tables
+## Data Tables
 - Zones
 - Zone Records
 
-# Requirements
-- Read rights to DNS Server
-- DNS Server Management Tools installed
+## Actions
+N/A
+
+# NIM Docs
+The official NIM documentation can be found at: https://docs.nimsuite.com
